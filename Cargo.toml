@@ -1,0 +1,9 @@
+[package]
+name = "graas-client"
+version = "0.1.0"
+authors = ["sternenseemann <git@lukasepple.de>"]
+
+[dependencies]
+json = "*"
+hyper = "*"
+mime = "*"
